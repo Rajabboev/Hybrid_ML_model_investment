@@ -55,7 +55,7 @@ tab1, tab2 = st.tabs(["Existing Projects (Dataset)", "New Project Entry"])
 # TAB 1 – EXISTING PROJECTS
 # =================================================
 with tab1:
-    st.subheader("🔍 Predict for a Project from the Dataset")
+    st.subheader("Predict for a Project from the Dataset")
 
     st.write("Below is the cleaned dataset used to train the models (first 10 rows).")
     st.dataframe(df.head(10))
@@ -114,7 +114,7 @@ with tab1:
 # TAB 2 – NEW PROJECT ENTRY (MANUAL INPUT)
 # =================================================
 with tab2:
-    st.subheader("🆕 New Project – Manual Input")
+    st.subheader("New Project – Manual Input")
 
     st.write(
         "Provide key project characteristics below. "
