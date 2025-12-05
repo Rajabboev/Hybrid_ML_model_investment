@@ -80,6 +80,8 @@ Deployment
 
 The application is deployed via Streamlit Cloud. The repository contains all required files, including the trained models and dataset, ensuring consistent inference during deployment.
 
+https://ifcinvestmenthybridml.streamlit.app/
+
 Author
 
 Anvarmirzo Rajabboev
