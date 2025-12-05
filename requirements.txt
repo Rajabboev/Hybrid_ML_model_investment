@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
 xgboost
 joblib
 altair
 matplotlib
 seaborn
 python-dateutil
+scikit-learn==1.2.1
